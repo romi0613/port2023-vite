@@ -1,1 +1,3 @@
-console.log("시작하기")
+export function menu() {
+    console.log(menu)
+}
